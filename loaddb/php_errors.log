@@ -1,0 +1,4 @@
+[07-Feb-2015 16:48:06 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 16:48:27 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
+[07-Feb-2015 16:49:38 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
+[07-Feb-2015 16:50:55 PRC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24 bytes) in D:\WWW\raw-custom\loaddb\loaddb.php on line 15
