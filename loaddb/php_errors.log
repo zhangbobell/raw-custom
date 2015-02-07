@@ -2,3 +2,27 @@
 [07-Feb-2015 16:48:27 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
 [07-Feb-2015 16:49:38 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
 [07-Feb-2015 16:50:55 PRC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24 bytes) in D:\WWW\raw-custom\loaddb\loaddb.php on line 15
+[07-Feb-2015 17:05:22 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:22 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:36 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:36 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:37 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:37 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:05:58 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
+[07-Feb-2015 17:05:58 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
+[07-Feb-2015 17:06:15 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:06:15 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loaddb.php on line 4
+[07-Feb-2015 17:06:40 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ (trying to connect via tcp://192.168.1.90:3306) in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3
+[07-Feb-2015 17:06:40 PRC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+ in D:\WWW\raw-custom\loaddb\loadtablename.php on line 3

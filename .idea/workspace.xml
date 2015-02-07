@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bd8b2cf-611a-4a6f-a77d-9b9403f4f036" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loaddb/loaddb.php" afterPath="$PROJECT_DIR$/loaddb/loaddb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loaddb/loaddbname.php" afterPath="$PROJECT_DIR$/loaddb/loaddbname.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loaddb/loadtablename.php" afterPath="$PROJECT_DIR$/loaddb/loadtablename.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loaddb/php_errors.log" afterPath="$PROJECT_DIR$/loaddb/php_errors.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="raw-custom.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,13 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loaddb.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loaddb.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loaddb/loaddb.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="700">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.6214689" vertical-offset="0" max-vertical-offset="740">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
               <folding>
-                <marker date="1423299290726" expanded="true" signature="274:288" placeholder="SELECT * FRO..table_..." />
+                <marker date="1423300102323" expanded="true" signature="358:372" placeholder="SELECT * FRO..table_..." />
               </folding>
             </state>
           </provider>
@@ -53,18 +56,18 @@
       <file leaf-file-name="loaddbname.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loaddb/loaddbname.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6896552" vertical-offset="0" max-vertical-offset="360">
-              <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+            <state vertical-scroll-proportion="-1.3793104" vertical-offset="0" max-vertical-offset="380">
+              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loadtablename.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loadtablename.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loaddb/loadtablename.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11299435" vertical-offset="0" max-vertical-offset="440">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="57" />
+            <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="500">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -92,8 +95,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/loaddb/loadtablename.php" />
         <option value="$PROJECT_DIR$/loaddb/loaddbname.php" />
+        <option value="$PROJECT_DIR$/loaddb/loadtablename.php" />
         <option value="$PROJECT_DIR$/loaddb/loaddb.php" />
       </list>
     </option>
@@ -284,29 +287,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loaddb/loaddb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="700">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1423299290726" expanded="true" signature="274:288" placeholder="SELECT * FRO..table_..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/loaddb/loaddbname.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6896552" vertical-offset="0" max-vertical-offset="360">
-          <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        <state vertical-scroll-proportion="-1.3793104" vertical-offset="0" max-vertical-offset="380">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loaddb/loadtablename.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11299435" vertical-offset="0" max-vertical-offset="440">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="57" />
+        <state vertical-scroll-proportion="-2.0689654" vertical-offset="0" max-vertical-offset="500">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaddb/loaddb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6214689" vertical-offset="0" max-vertical-offset="740">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <marker date="1423300102323" expanded="true" signature="358:372" placeholder="SELECT * FRO..table_..." />
+          </folding>
         </state>
       </provider>
     </entry>
